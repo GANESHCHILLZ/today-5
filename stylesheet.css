@@ -1,0 +1,47 @@
+ h3 {
+        color: darkorange;
+    }
+
+    h5 {
+        color: darkseagreen;
+    }
+
+    p {
+        color: rgb(63, 20, 255);
+        font-size: 17px;
+
+    }
+
+    ol {
+        text-transform: capitalize;
+        font-weight: bold;
+        background: rgba(44, 196, 82, 0.39) ;
+        color: #250dfd;
+        width: 150px;
+    }
+
+    a{
+        letter-spacing: 2mm;
+    
+    }
+
+     .main-quote{
+          color: darkmagenta;
+          font-size: bold;
+          font-size: 20;
+    }
+    .contant{
+       border: 5px rgb(189, 91, 22);
+       padding: 5px;
+       border-style: dished;
+       border-radius: 80px;
+       
+        background-image: linear-gradient(to right bottom, #9cad2b, #d9ee22, #d8e618, #acbf00, #a8eb12);
+        margin: 20 30;
+        margin: 50px rgb(148, 21, 21);    
+        border-style: groove;
+        border-width: 20px 20px;
+        font-family: 'Playfair Display', serif;
+        font-size: 30px;
+    
+    }
